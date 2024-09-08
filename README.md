@@ -1,6 +1,6 @@
-# 🎥 TranscibeAI-YouTube-Summarize-Expert
+# 🎥 TranscribeAI-YouTube-Summarize-Expert
 
-Welcome to the **YouTube Video Transcriber** project! This tool transcribes YouTube videos into text, stores the text as vectors, 
+This tool transcribes YouTube videos into text, stores the text as vectors, 
 and allows users to interact with the content in various ways. Whether you want a summary, answers to specific questions, or even a blog post based on the video, this tool has you covered!
 ![YouTube Video Transcriber Screenshot](https://github.com/adityashakya836/TranscribeAI-YouTube-Summarizer-Expert/blob/master/Screenshot%202024-09-08%20204524.png)
 
